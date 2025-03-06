@@ -13,7 +13,12 @@ nav:
       - Gold Award: 
         - Assessment: 'Databases-and-SQL/Gold-Award/Databases-and-SQL-Assessment.md'
         - SQL Cheat Sheet: 'Databases-and-SQL/Gold-Award/SQL-Cheat-Sheet.md'
-        
+    - Scratch:
+      - Nature Rover:
+        - Step 1: 'RPi-Scratch-Pathway-3/Nature-Rover/step-1.md'
+        - Step 2: 'RPi-Scratch-Pathway-3/Nature-Rover/step-2.md'
+        - Step 3: 'RPi-Scratch-Pathway-3/Nature-Rover/step-3.md'
+      
 markdown_extensions:
     - admonition
     - pymdownx.details
