@@ -15,8 +15,8 @@ nav:
         - SQL Cheat Sheet: 'Databases-and-SQL/Gold-Award/SQL-Cheat-Sheet.md'
     - Scratch:
       - Nature Rover:
-        - Step 1: 'RPi-Scratch-Pathway-3/Nature-Rover/step-1.md'
-        - Step 2: 'RPi-Scratch-Pathway-3/Nature-Rover/step-2.md'
+        - Step 1 - Controling the Rover: 'RPi-Scratch-Pathway-3/Nature-Rover/step-1.md'
+        - Step 2 - Scroll the Background: 'RPi-Scratch-Pathway-3/Nature-Rover/step-2.md'
         - Step 3: 'RPi-Scratch-Pathway-3/Nature-Rover/step-3.md'
       
 markdown_extensions:
