@@ -1,6 +1,6 @@
 # Scroll the Background
 
-!!! informatio "Info"
+!!! information "Info"
 
     All code instructions in this step are to added to the **`hills sprite`**
 
